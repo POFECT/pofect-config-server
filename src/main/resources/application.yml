@@ -11,8 +11,8 @@ spring:
         encrypt:
           enabled: true
         git:
-          uri: https://github.com/bongdaring/pofect-config-repo
-          search-paths: service-pofect, service-gateway
+          uri: https://github.com/POFECT/pofect-config-repo
+          search-paths: service-pofect
 
 encrypt:
   key-store:
