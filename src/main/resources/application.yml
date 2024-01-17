@@ -12,7 +12,7 @@ spring:
           enabled: true
         git:
           uri: https://github.com/POFECT/pofect-config-repo
-          search-paths: service-pofect
+          search-paths: service-pofect, keycloak-pofect
 
 encrypt:
   key-store:
